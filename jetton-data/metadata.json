@@ -3,5 +3,5 @@
   "description": "Official token of the Test Test",
   "symbol": "TJ",
   "decimals": 9,
-  "image_data": "https://cdn.dogs.dev/dogs.png"
+  "image": "https://cdn.dogs.dev/dogs.png"
 }
